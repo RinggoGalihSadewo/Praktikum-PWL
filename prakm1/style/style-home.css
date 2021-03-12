@@ -1,0 +1,36 @@
+		.container {
+
+			margin: 230px auto;
+			width: 300px;
+			height: 200px;
+			border: 1px solid silver;
+			border-radius: 7px;
+			background-color: white;
+			
+		}
+
+		.header {
+
+			font-family: sans-serif;
+			text-align: center;
+
+		}
+
+		.table {
+
+			font-family: sans-serif;
+			margin: 0 auto;
+			width: 200px;
+			height: 175px;
+			border: 1px solid silver;
+			padding-left: 15px;
+			padding-top: 20px; 
+			box-sizing: border-box;
+
+		}
+
+		h1 {
+
+			padding-top: 20%;	
+		
+		}
