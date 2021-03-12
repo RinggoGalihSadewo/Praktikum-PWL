@@ -10,7 +10,7 @@ $fb = new Facebook\Facebook([
 
 
 $helper = $fb->getRedirectLoginHelper();
-$login_url = $helper->getLoginUrl("http://localhost/pwl/prakm1/");
+$login_url = $helper->getLoginUrl("http://localhost/pwl/minggu1/prakm1/");
 
 try {
 	$accessToken = $helper->getAccessToken();
